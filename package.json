@@ -1,0 +1,19 @@
+{
+  "name": "jqq-freezeframe-util",
+  "version": "1.0.0",
+  "description": "Utility for grabbing random frames from James Q Quick's videos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maciejpedzich/jqq-freezeframe-util.git"
+  },
+  "author": "Maciej Pędzich",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maciejpedzich/jqq-freezeframe-util/issues"
+  },
+  "homepage": "https://github.com/maciejpedzich/jqq-freezeframe-util#readme"
+}
