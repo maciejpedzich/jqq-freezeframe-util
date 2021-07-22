@@ -10,4 +10,4 @@ Clone this repository
 git clone https://github.com/maciejpedzich/jqq-freezeframe-util.git
 ```
 
-Now `cd` into project's directory, and run `node index.js`;
+Now `cd` into project's directory, run `npm install` and `node index.js`.
