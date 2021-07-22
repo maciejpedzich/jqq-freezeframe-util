@@ -15,5 +15,13 @@
   "bugs": {
     "url": "https://github.com/maciejpedzich/jqq-freezeframe-util/issues"
   },
-  "homepage": "https://github.com/maciejpedzich/jqq-freezeframe-util#readme"
+  "homepage": "https://github.com/maciejpedzich/jqq-freezeframe-util#readme",
+  "dependencies": {
+    "ffmpeg-static": "^4.4.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "fs": "0.0.1-security",
+    "random-number": "0.0.9",
+    "ytdl-core": "^4.9.0"
+  },
+  "devDependencies": {}
 }
