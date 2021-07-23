@@ -1,6 +1,6 @@
 {
   "name": "jqq-freezeframe-util",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Utility for grabbing random frames from James Q Quick's videos",
   "main": "index.js",
   "scripts": {
@@ -19,9 +19,10 @@
   "dependencies": {
     "ffmpeg-static": "^4.4.0",
     "fluent-ffmpeg": "^2.1.2",
-    "fs": "0.0.1-security",
-    "random-number": "0.0.9",
-    "ytdl-core": "^4.9.0"
+    "get-video-duration": "^3.1.0",
+    "random-number": "0.0.9"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "ytdl-core": "^4.9.0"
+  }
 }
