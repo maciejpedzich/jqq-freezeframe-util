@@ -1,6 +1,6 @@
 {
   "name": "jqq-freezeframe-util",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Utility for grabbing random frames from James Q Quick's videos",
   "main": "index.js",
   "scripts": {

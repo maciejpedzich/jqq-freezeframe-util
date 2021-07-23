@@ -54,7 +54,7 @@ async function main() {
           .once('end', () => {
             fs.unlinkSync('temp.mp4');
             console.log('Done! Frame saved to output.png');
-            process.exit(1);
+            process.exit(0);
           });
       });
   } catch (error) {
